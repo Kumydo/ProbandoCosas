@@ -1,4 +1,6 @@
 <h1 align="center">Linguardia *Foto logo*</h1>
+<!-- ![logo](Linguardia_app_logo.png) -->
+
 
 ### Descripción
 
